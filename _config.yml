@@ -1,7 +1,7 @@
 name: TaxiContainers
 favicon: null
-layout_spectrum: 0.018177860882133245
-typography_spectrum: 0.2810449057724327
+layout_spectrum: 0
+typography_spectrum: 1
 title: 'TaxiContainers - Mini Bodegas móviles a Domicilio '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.38279416412115097
+    - '#f8d124'
+    - '#000000'
+    - '#efdf9f'
+    - '#fff7cf'
+    - '#ffffff'
+  brandStrength: 0.25
   lightness: 0.6535208278801292
-  saturation: 0.8535032703075558
-  rhythmicContrast: 0.19439889420755208
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
